@@ -15,7 +15,7 @@
 
 
 ### 🚀 Funkcjonalności
-* [https://www.techrxiv.org/users/841976/articles/1299085-laser-based-audio-transmission-a-real-time-optical-communication-prototype#:~:text=Using%20amplitude%2Dmodulated%20laser%20light,wire%2Dfree%20audio%20communication%20system.] Materiał pomocniczy, z objaśnieniami działania oraz całego zamysłu projektu.
+* [https://www.techrxiv.org/users/841976/articles/1299085] Materiał pomocniczy, z objaśnieniami działania oraz całego zamysłu projektu.
 
 ## 🛠 Technologie
 * **Narzędzia:** Lutownica, Druk 3D
