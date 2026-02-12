@@ -15,7 +15,7 @@
 
 
 ### 🚀 Funkcjonalności
-* [https://www.techrxiv.org/users/841976/articles/1299085] Materiał pomocniczy, z objaśnieniami działania oraz całego zamysłu projektu.
+* [Artykuł](https://www.techrxiv.org/users/841976/articles/1299085)- Materiał pomocniczy, z objaśnieniami działania oraz całego zamysłu projektu.
 
 ## 🛠 Technologie
 * **Narzędzia:** Lutownica, Druk 3D
