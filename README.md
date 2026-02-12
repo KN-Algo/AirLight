@@ -15,7 +15,11 @@
 
 
 ### 🚀 Funkcjonalności
-* [Artykuł](https://www.techrxiv.org/users/841976/articles/1299085)- Materiał pomocniczy, z objaśnieniami działania oraz całego zamysłu projektu.
+* [Artykuł](https://www.techrxiv.org/users/841976/articles/1299085)- - artykuł z ogólnym opisanie działania. Sposób podłączenia trochę się różni.
+* [Filmik wzorowany](https://youtube.com/watch?v=EiVi8AjG4OY&si=IRhJEz7_P2FXkZ8F) - film, na którym projekt był wzorowany.
+* [Rolka na Instagramie z podobnym pomysłem](https://www.instagram.com/reel/DP7IW_4jtsI/?igsh=MWV0a2RxODd6b2xwaA==) - rolka na Instagramie z tym samym pomysłem
+
+
 
 ## 🛠 Technologie
 * **Narzędzia:** Lutownica, Druk 3D
