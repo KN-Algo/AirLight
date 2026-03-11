@@ -8,11 +8,29 @@ set(CMAKE_CXX_STANDARD_REQUIRED ON)
 find_package(SDL2 REQUIRED)
 find_package(SDL2_ttf REQUIRED)
 
-# Dodaj plik źródłowy do projektu
-add_executable(${PROJECT_NAME} WIN32 main.cpp)
+# Pliki zrodlowe - teraz podzielone na moduly
+set(SOURCES
+    main.cpp
+    src/audio.cpp
+    src/ui.cpp
+)
+
+set(HEADERS
+    src/config.h
+    src/audio.h
+    src/ui.h
+)
+
+# Dodaj plik zrodlowy do projektu
+add_executable(${PROJECT_NAME} WIN32 ${SOURCES} ${HEADERS})
+
+# Include directories
+target_include_directories(${PROJECT_NAME} PRIVATE 
+    ${SDL2_INCLUDE_DIRS}
+    ${CMAKE_CURRENT_SOURCE_DIR}
+)
 
 # Link SDL2 i SDL2_ttf
-target_include_directories(${PROJECT_NAME} PRIVATE ${SDL2_INCLUDE_DIRS})
 target_link_libraries(${PROJECT_NAME} PRIVATE ${SDL2_LIBRARIES} SDL2_ttf::SDL2_ttf)
 
 # Na Windows, skopiuj pliki DLL do katalogu wyjściowego po zbudowaniu

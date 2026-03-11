@@ -1,13 +1,16 @@
 # Audio Passthrough z wizualizacją fali
 
-Apka w C++ do przechwytywania dźwięku z mikrofonu i odtwarzania go w czasie rzeczywistym. Jest też fajny wykres fali dźwiękowej i suwak do głośności.
+Apka w C++ do przechwytywania dźwięku z mikrofonu i odtwarzania go w czasie rzeczywistym. Jest wykres fali dźwiękowej, spektrogram FFT i suwaki do kontroli.
 
 ## Co to robi?
 
 - **Lista urządzeń audio** - pokazuje wszystkie mikrofony/wejścia audio jakie masz
 - **Passthrough w czasie rzeczywistym** - to co słyszy mikrofon leci od razu na głośniki
 - **Wizualizacja fali** - na żywo rysuje falę dźwiękową (niebieski = lewy kanał, różowy = prawy)
+- **Spektrogram FFT** - pokazuje rozkład częstotliwości w czasie rzeczywistym (kolorowe słupki)
 - **Kontrola głośności** - suwak od 0% do 200% (tak, można pogłośnić ponad normę)
+- **Próg szumu** - suwak do odcinania szumu (przydatne dla głośnych mikrofonów/fotorezystorów)
+- **Zoom częstotliwości** - możesz ograniczyć widok spektrogramu do niższych częstotliwości (100Hz - 22kHz)
 
 ## Czego potrzebujesz
 
