@@ -22,14 +22,16 @@
 
 
 ## 🛠 Technologie
-* **Narzędzia:** Lutownica, Druk 3D
+* **Narzędzia:** Lutownica, Druk 3D, Fusion, C/C++
 
 ## 🤝 Twórcy
 
 Projekt realizowany przez członków **KN Algo** przy Politechnice Wrocławskiej:
 
-  * **[Imię Nazwisko](https://www.google.com/search?q=link_do_githuba)** - Rola (np. Lead Developer)
-  * **[Imię Nazwisko](https://www.google.com/search?q=link_do_githuba)** - Rola (np. Research, Documentation)
+  * **[Mateusz Kozik](https://www.google.com/search?q=link_do_githuba)** - Project Leader, Research, 3D Modeling, Embedded
+  * **[Adam Kruszczyński](https://github.com/AdamKruszczynski)** - 3D Modeling
+  * **[Kristina Pavlovska](https://github.com/pavlovskakristina)** - 3D Modeling
+  * **[Jakub Rolak](https://github.com/serplay)** - Programming, Research and Documentation
 
 -----
 
